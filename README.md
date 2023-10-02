@@ -1,6 +1,29 @@
+Download links
+
+'''
+VISUAL STUDIO CODE LINK : https://code.visualstudio.com/download
+'''
+
+'''
+ANACONDA:https://www.anaconda.com/download
+'''
+
+'''
+GIT download :https://git-scm.com/downloads
+'''
+
+
+
+
+
+
 #CREATE A VIRTUAL ENVIRONMENT
 
 conda create -p venv python=3.7 -y
+
+#COMMAND PROMPT
+
+conda activate <absolute path of your env folder>
 
 source activate ./venv
 
